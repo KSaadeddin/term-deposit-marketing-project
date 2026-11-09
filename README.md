@@ -70,6 +70,7 @@ term-deposit-marketing-project/
 ├── tests/                  # Unit tests
 ├── Dockerfile              # Containerization setup
 ├── main.py                 # Entry point script
+├── LICENSE                 # MIT License
 └── README.md               # This file
 ```
 
