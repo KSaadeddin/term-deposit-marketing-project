@@ -71,6 +71,7 @@ term-deposit-marketing-project/
 ├── Dockerfile              # Containerization setup
 ├── main.py                 # Entry point script
 └── README.md               # This file
+```
 
 ## 🚀 How to Run
 
