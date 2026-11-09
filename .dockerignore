@@ -1,0 +1,31 @@
+# Virtual Environments
+venv/
+.venv/
+env/
+
+# Python Cache
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+
+# IDE Settings
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Git
+.git/
+.gitignore
+
+# Local Data (if you want to mount it instead of baking it in)
+# Uncomment below if you prefer mounting data via volumes rather than copying it into the image
+# data/raw/*.csv 
+
+# Outputs (don't bake results into the image)
+models/
+reports/
+*.png
+*.jpg
+*.json
